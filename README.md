@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kaldren
+- 👀 I’m interested in C# & .NET
+- 🌱 I’m currently learning Blazor and MAUI
