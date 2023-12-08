@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @kaldren
-- 👀 I love C#, .NET and Microsoft Azure
-- 🧑🏼‍💻 Thousands of contributions per year (most of them to private repos)
+- 👀 I love working with C#, .NET and Microsoft Azure
