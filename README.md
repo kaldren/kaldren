@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @kaldren
-- 👀 I’m interested in C# & .NET
-- 🌱 I’m currently learning Blazor and MAUI
+- 👀 I love C#, .NET and Microsoft Azure
 - 🧑🏼‍💻 Thousands of contributions per year (most of them to private repos)
