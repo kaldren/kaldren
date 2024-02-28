@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kaldren
-- 👀 Most of my repos are private
+- 👀 Most of my repos and my activity on Github are set to private
 - 💻I love working with C#, .NET and Microsoft Azure
