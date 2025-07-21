@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @kaldren
-- 👀 Most of my repos and my activity on Github are set to private
-- 💻I love working with C#, .NET and Microsoft Azure
+- 👋 Hi, I’m @kaldren, Solutions Architect at KPMG
+- 🧠 I design scalable systems and AI-powered solutions
+- ☁️ I specialize in C#, .NET, and Microsoft Azure
+- 🐍 I also do some Python for building various AI solutions
