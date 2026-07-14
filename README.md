@@ -6,7 +6,7 @@ I enjoy turning complex business requirements into practical software using AI t
 
 ### 💡 Interests
 
-- Enterprise AI
+- AI
 - Multi-agent systems
 - Cloud architecture
 - Software architecture
