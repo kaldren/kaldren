@@ -1,8 +1,6 @@
 # Hi, I'm Kaloyan Drenski 👋
 
-I'm an AI Solution Architect at KPMG, helping organizations design and build enterprise AI solutions that solve real-world business problems.
-
-My focus is on Agentic AI, multi-agent systems, enterprise AI architecture, and AI transformation. I turn complex business requirements into practical, scalable AI solutions.
+I love using a team of extremely capable AI agents to build amazing solutions.
 
 ---
 
